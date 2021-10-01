@@ -20,4 +20,4 @@ jenkins server url : http://3.37.38.106:8080
 4. 이것을 publish over ssh 플러그인을 통해 해당 서버로 전달
 5. 전달받은 jar ,dockerfile 을 런시켜서 spirng boot 가 뜨워진다 .
 
-해당 리포지토리 담당자 
+해당 리포지토리 담당자 백인준
