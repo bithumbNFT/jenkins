@@ -8,7 +8,7 @@
 
 ## Jenkins 서버 
 
-jenkins server url : http://15.165.43.193:8080/
+jenkins server url : http://15.165.43.193/
 
 ## jenkins 구성도 
 
